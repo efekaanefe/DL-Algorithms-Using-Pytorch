@@ -1,0 +1,119 @@
+[33mcommit 35e93029d71e1367eb60ba8fa76162e8c9285721[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Tue Jan 23 17:43:43 2024 +0300
+
+    some comments
+
+[33mcommit 7387796273a62b984b28f305e1c8a5b7e45d0094[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Tue Jan 23 16:37:48 2024 +0300
+
+    README update
+
+[33mcommit 381e414e9b2cc4b31c1c72dad6695027495bcbed[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Tue Jan 23 14:21:27 2024 +0300
+
+    better model
+
+[33mcommit 7b12bba7559da6e42b2a513c0ad69045edc23ff4[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Mon Jan 22 17:40:07 2024 +0300
+
+    finally cuda
+
+[33mcommit 448eea493ae025c9cf52c6525ca3862e9afa48e7[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Mon Jan 22 16:37:43 2024 +0300
+
+    char level GPT
+
+[33mcommit 81eadbe1f85ab7effc86002e3d45e0f5eb6029a6[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Mon Jan 22 14:33:07 2024 +0300
+
+    GPT
+
+[33mcommit d82aad2f4b93ac1211ca887e39cbff79febf0102[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Mon Jan 22 13:00:31 2024 +0300
+
+    single head self-attention
+
+[33mcommit 9963de2041c21b277ae28974fb5567ac70b68788[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Mon Jan 22 11:46:59 2024 +0300
+
+    attention is all you need
+
+[33mcommit b6ab2a73191f89f7872112e72cca75e79133a248[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Wed Jan 17 19:38:57 2024 +0300
+
+    README update
+
+[33mcommit a0746308decf25c6e0ca28610aea844585a262d5[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Wed Jan 17 19:29:58 2024 +0300
+
+    revision
+
+[33mcommit d78e73f98e09822037b8a6e207563f479b339568[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Wed Jan 17 19:14:24 2024 +0300
+
+    bigram language model works, next to implement N-gram..
+
+[33mcommit be3b4adb96ae0e6f429f0e292cedc60141317993[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Sat Dec 30 00:51:21 2023 +0300
+
+    stack, followed the tutorial by andrej karpath
+
+[33mcommit 7b11ab1f94b1dc13a19ed53f9b1e17d0ea1eb429[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 17:38:44 2023 +0300
+
+    some typo
+
+[33mcommit 1c1c4f404027086171bb9cb00b1f10ccf4ecf915[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 17:34:03 2023 +0300
+
+    some models for random names 2
+
+[33mcommit d1c07b5ae58e801786ec5db5ba0da56446a8c886[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 17:26:17 2023 +0300
+
+    some models for random names
+
+[33mcommit d8e29ad3daf0973936c0763eaa874691a2bf3365[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 13:55:17 2023 +0300
+
+    some predicted text
+
+[33mcommit 5e400d34bde43bddaa5736a308d7e660396de710[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 11:47:20 2023 +0300
+
+    transformer architacure and some language models
+
+[33mcommit 4f1fd86495c00e3299df96bcb6cd94872f3714aa[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 11:04:37 2023 +0300
+
+    encoded dataset and dataloader
+
+[33mcommit 2c9cff98d646e5af0150709357840578a4cdca58[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 10:20:35 2023 +0300
+
+    read file, tokenized data
+
+[33mcommit 6ed94d3030e5f1b5969f70385cc462e070b25f40[m
+Author: efekaanefe <efekaanefe1905@gmail.com>
+Date:   Fri Dec 29 09:31:58 2023 +0300
+
+    first commit
