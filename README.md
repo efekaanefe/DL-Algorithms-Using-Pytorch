@@ -1,7 +1,7 @@
 # Deep Learning Algorithms using 
 
 
-## Implemented Deep Learning Models
+## Implemented Algorithms
 
 - [x] AutoEncoder
 - [x] Variational Autoencoder (VAE)
