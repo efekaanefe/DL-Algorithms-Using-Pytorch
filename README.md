@@ -1,4 +1,19 @@
-# Deep Learning Algorithms using PyTorch
+# Deep Learning Algorithms using 
+
+
+## 🧠 Implemented Deep Learning Models
+
+- [x] **AutoEncoder** - A basic autoencoder for unsupervised representation learning.
+- [x] **Variational Autoencoder (VAE)** - Probabilistic autoencoder with latent space sampling.
+- [x] **Multilayer Perceptron (MLP)** - A simple feedforward neural network.
+- [x] **Convolutional Neural Network (CNN)** - A CNN for image classification tasks.
+- [x] **Deep Convolutional GAN (DCGAN)** - A convolutional GAN for generating images.
+- [x] **Generative Adversarial Network (GAN)** - Basic GAN implementation with generator and discriminator.
+- [x] **Recurrent Neural Network (RNN) - LSTM** - Long Short-Term Memory network for sequence modeling.
+- [x] **GPT-style Transformer** - A transformer-based language model inspired by GPT.
+- [x] **Bigram Language Model** - A simple language model based on bigram probabilities.
+
+
 
 ## Language Models
 Pytorch implementations of various language models.
